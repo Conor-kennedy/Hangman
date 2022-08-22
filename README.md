@@ -1,5 +1,5 @@
 # Hangman
-Simple game of Hangman made with python
+Two player hangman game.
 
 
 ![Screenshot 2022-08-22 at 13 42 27](https://user-images.githubusercontent.com/92161954/185923895-dacee706-c0bc-4998-b18b-e40caac43b7a.png)
